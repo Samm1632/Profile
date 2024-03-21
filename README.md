@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning and Deep Learning
 - 🌱 I’m currently learning LLMs
 - 🤝 I’m looking to collaborate on various ML and DL repos
-- 📫 How to reach me shyammehta016@gmail.com
+- 📫 How to reach me samm.lizard16@gmail.com
 
 <!---
 Samm1632/Samm1632 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
