@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shyam 
 - 👀 I’m interested in Machine Learning and Deep Learning
-- 🌱 I’m currently learning LLMs and Obeject Detection
-- 🤝 I’m looking to collaborate on various ML and DL repos
+- 🌱 I’m currently learning Cloud Analytics
+- 🤝 I’m looking to collaborate on various NLP and LLM models
 - 📫 How to reach me samm.lizard16@gmail.com
 
 <!---
